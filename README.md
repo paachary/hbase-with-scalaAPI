@@ -1,2 +1,1 @@
-# hbase-with-scalaAPI
-Repository containing HBASE CRUD APIs with Scala
+Repository containing hbase CURD APIs using Scala.
